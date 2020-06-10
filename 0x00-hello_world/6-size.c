@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - print strings to the console
+* main - entry point
 *
-* Return: always 0
+* Return: always 0 (success)
 */
 int main(void)
 {
@@ -11,10 +11,10 @@ int i;
 long int li;
 long long int lli;
 float f;
-printf("size of a char:%d byte(s)\n", sizeof(c));
-printf("size of an int:%d byte(s)\n", sizeof(i));
-printf("size of a long int:%d byte(s)\n", sizeof(li));
-printf("size of a long long int:%d byte(s)\n", sizeof(lli));
-printf("size of a float:%d byte(s)\n", sizeof(f));
+printf("size of a char:%i byte(s)\n", sizeof(c));
+printf("size of an int:%i byte(s)\n", sizeof(i));
+printf("size of a long int:%i byte(s)\n", sizeof(li));
+printf("size of a long long int:%i byte(s)\n", sizeof(lli));
+printf("size of a float:%i byte(s)\n", sizeof(f));
 return (0);
 }
