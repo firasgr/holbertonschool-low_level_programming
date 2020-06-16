@@ -6,8 +6,8 @@
 */
 int _islower(int c)
 {
-int chek;
-if (chek >= 97 && chek <= 122)
+int c;
+if (c >= 97 && c <= 122)
 {
 return (1);
 }
