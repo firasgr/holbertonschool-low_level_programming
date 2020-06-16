@@ -1,8 +1,6 @@
 #include "holberton.h"
 /**
- * main - check the code for Holberton School students.
- *
- *print_alphabet - function that prints alphabet from a to z.
+ *print_alphabet - a function that prints the alphabet, in lowercase, followed by a new line.
  */
 void print_alphabet(void)
 {
