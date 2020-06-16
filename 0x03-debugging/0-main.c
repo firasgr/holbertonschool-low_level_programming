@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- *main - main function
+ *main -  test that the function positive or negative
  *Return: return value zero
  */
 int main(void)
