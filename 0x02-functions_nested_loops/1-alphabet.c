@@ -2,8 +2,6 @@
 /**
  * main - check the code for Holberton School students.
  *
- * Return: Always 0.
- *
  *print_alphabet - function that prints alphabet from a to z.
  */
 void print_alphabet(void)
