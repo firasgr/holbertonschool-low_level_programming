@@ -1,24 +1,24 @@
 #include "holberton.h"
 /**
- *main - main function
- *Return: return value zero (success)
+ *print_sign - a function that prints the sign of a number.
+ * @c: int
+ *Return: 0 or 1
 */
 int print_sign(int n)
 {
-int r;
-if (r > 0)
+if (n > 0)
 {
 _putchar('+');
-_putchar('1');
+return (1);
 }
 else if (r == 0)
 {
 _putchar('0');
-_putchar('0');
+return (0);
 }
 else
 {
 _putchar('-');
-_putchar('/');
+return (-1);
 }
 }
