@@ -4,7 +4,7 @@
  *
  * Return: Always 0.
  *
- *print_alphabet - print alphabet from a to z
+ *print_alphabet - function that prints alphabet from a to z.
  */
 void print_alphabet(void)
 {
