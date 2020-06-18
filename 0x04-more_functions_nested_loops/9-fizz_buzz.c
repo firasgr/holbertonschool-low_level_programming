@@ -11,23 +11,19 @@ while (a < 100)
 ++a;
 if (a % 3 == 0)
 {
-printf("Fizz");
-printf(" ");
+printf("Fizz ");
 }
 else if (a % 5 == 0)
 {
-printf("Buzz");
-printf(" ");
+printf("Buzz ");
 }
 else if ((a % 3 == 0) && (a % 5 == 0))
 {
-printf("FizzBuzz");
-printf(" ");
+printf("FizzBuzz ");
 }
 else
 {
-printf("%d", a);
-printf(" ");
+printf("%d ", a);
 }
 }
 return (0);
