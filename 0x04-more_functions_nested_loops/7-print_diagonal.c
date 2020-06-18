@@ -1,9 +1,9 @@
 #include "holberton.h"
 /**
- *print_numbers - a function that draws a diagonal line on the terminal.
+ *print_diagonal - a function that draws a diagonal line on the terminal.
  *@n: int
 */
-void print_numbers(int n)
+void print_diagonal(int n)
 {
 int a, b;
 a = 0;
