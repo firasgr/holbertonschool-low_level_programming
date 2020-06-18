@@ -8,7 +8,7 @@ int main(void)
 int a;
 while (a < 100)
 {
-++a;
+a++;
 if (a % 3 == 0)
 {
 printf("Fizz ");
