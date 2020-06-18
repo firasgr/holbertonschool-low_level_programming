@@ -2,7 +2,6 @@
 /**
  *print_line - a function that print a line.
  *@n: int
- *Return: 0
 */
 void print_line(int n)
 {
