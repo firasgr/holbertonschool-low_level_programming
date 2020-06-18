@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- *_isupper - a function that checks for a digit.
+ *_isdigit - a function that checks for a digit.
  *@c: int
  *Return: 0 or 1
 */
