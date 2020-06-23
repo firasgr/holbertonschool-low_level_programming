@@ -10,7 +10,7 @@ while (*str != '\0')
 {
 _putchar(*str);
 str++;
-i++;
+a++;
 }
 _putchar('\n');
 }
