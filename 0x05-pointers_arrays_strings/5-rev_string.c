@@ -14,7 +14,7 @@ b++;
 }
 c = b;
 b = 0;
-while (b < c / 2 + b)
+while (b < c / 2 + 1)
 {
 a = s[b];
 s[b] = s[c - b];
