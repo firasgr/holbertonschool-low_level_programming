@@ -4,6 +4,7 @@
  *@dest: char
  *@src: char
  *@n: int
+ *Return: a pointer
  */
 
 char *_strncat(char *dest, char *src, int n)

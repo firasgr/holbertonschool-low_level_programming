@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * - a function that swipes two integers.
+ *_strncpy - a function that swipes two integers.
  *@dest: char
  *@src: char
  *@n: int
